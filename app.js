@@ -32,4 +32,9 @@ const addToDo = (item) => {
     )
     toDoBox.appendChild(listItem)
 }
+GeolocationCoordinates.Date
+{
+    var A = new Date();
+document.write(A);
 
+}
